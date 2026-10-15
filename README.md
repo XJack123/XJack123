@@ -22,4 +22,4 @@ building    small experiments, useful tools, and a clearer understanding
 outside     skiing / hiking / gaming / trying something new
 ```
 
-[Website](https://xjack123.github.io/) · [Projects](https://xjack123.github.io/projects.html) · [Notes](https://xjack123.github.io/notes.html)
+[Learning log](https://github.com/XJack123/til) · [Website](https://xjack123.github.io/) · [Projects](https://xjack123.github.io/projects.html) · [Notes](https://xjack123.github.io/notes.html)
