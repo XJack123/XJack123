@@ -17,9 +17,10 @@ Curious about statistical learning, spatial intelligence, and embodied AI.
 ### `$ cat interests.txt`
 
 ```text
-exploring   statistical learning / spatial intelligence / embodied AI
-building    small experiments, useful tools, and a clearer understanding
-outside     skiing / hiking / gaming / trying something new
+exploring   statistical learning / spatial intelligence
+            embodied AI
+building    small experiments / useful tools
+outside     skiing / hiking / gaming / new things
 ```
 
 [Learning log](https://github.com/XJack123/til) · [Website](https://xjack123.github.io/) · [Projects](https://xjack123.github.io/projects.html) · [Notes](https://xjack123.github.io/notes.html)
